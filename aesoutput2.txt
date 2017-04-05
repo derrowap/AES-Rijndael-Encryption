@@ -1,0 +1,10 @@
+Number of iterations: 10000
+Number of rounds: 10
+Key:
+2b28ab097eaef7cf15d2154f16a6883c
+Plaintext:
+328831e0435a3137f6309807a88da234
+******** BEGIN ENCRYPTION ********
+********  END ENCRYPTION  ********
+Final block:
+7dd3a3336058e1e4e53b0c0da4c2cb29
